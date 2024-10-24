@@ -1,8 +1,11 @@
 ---
 layout: page
-title: "Resume"
-permalink: "/resume"
+title: Resume
+permalink: /resume
 ---
+
+# Resume
+
 #### Technical Skills: PyTorch, TensorFlow, LLMs, AI algorithms, Git, Jira, AWS, Pandas, Numpy, Keras, ETL, Agile, ML Ops, Docker, CUDA, Java, C, CI/CD
 
 ## Education

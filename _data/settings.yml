@@ -12,10 +12,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
+- {name: 'Longfomer (improved transformer)',   url: 'proj-1'}
+- {name: 'Financial Advising LLM Agent',   url: 'proj-2'}
+- {name: 'Multi-pronged Attention Network for Stock Forecasting (MAN-SF)', url: 'proj-3'}
+- {name: 'Big Fat Charity',  url: 'proj-4'}
 
 #-------------------------------
 # Contact Section

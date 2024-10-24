@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Resume', url: 'resume'}
+- {name: 'Resume', url: 'page'}
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}

@@ -9,7 +9,8 @@ permalink: /resume
 #### Technical Skills: PyTorch, TensorFlow, LLMs, AI algorithms, Git, Jira, AWS, Pandas, Numpy, Keras, ETL, Agile, ML Ops, Docker, CUDA, Java, C, CI/CD
 
 ## Education
-M.S., Artificial Intelligence	| Johns Hopkins University (_Graduating May 2025_)	 			        		
+M.S., Artificial Intelligence	| Johns Hopkins University (_Graduating May 2025_)	 			       
+
 B.S., Computer Science | Virginia Tech (_May 2021_)
 
 ## Work Experience

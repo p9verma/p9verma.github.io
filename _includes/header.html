@@ -1,8 +1,8 @@
 <header>
   <div class="logo">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
-    <p>{{ site.description }}</p>
   </div>
+  <p>{{ site.description }}</p>
   <nav>
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
